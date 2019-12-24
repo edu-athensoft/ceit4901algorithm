@@ -56,6 +56,7 @@ public class BinaryTreeTraversal {
 		//root
 		Node n4 = new Node(4, n2, n5);
 		
+		System.out.println(n4.getParent());
 		System.out.println(n2.getParent());
 		System.out.println(n5.getParent());
 		System.out.println(n1.getParent());
