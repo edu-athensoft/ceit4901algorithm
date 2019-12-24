@@ -1,6 +1,6 @@
 package com.athensoft.linear.sorting;
 
-public class BubbleSorting {
+public class BubbleSort {
 
 	public static void main(String[] args) {
 		int[] num = {4,5,2,7,8,9,1,6,3,0};

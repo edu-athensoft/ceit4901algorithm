@@ -11,7 +11,7 @@ package com.athensoft.linear.sorting;
  * @author Athensoft
  *
  */
-public class QuickSorting {
+public class QuickSort {
 
 	private static int pivot = 0;
 	

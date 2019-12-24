@@ -6,7 +6,7 @@ package com.athensoft.adt.array;
  */
 public class ArrayDemo {
 
-	public int[]myArray;
+	public int[] myArray;
 	
 	public ArrayDemo() {
 		// TODO Auto-generated constructor stub
