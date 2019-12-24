@@ -1,4 +1,4 @@
-package com.athensoft.linear.sorting;
+package com.athensoft.adt.sorting;
 
 public class BubbleSort {
 
